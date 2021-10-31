@@ -3,10 +3,11 @@
       <div class="container mx-auto py-5">
         <div class="flex flex-stretch items-center">
           <div class="w-56 items-center flex">
-            <img
-              src="{{url ('/frontend/images/content/logo_toko_sembako.png') }}"
-              alt="sejahtera | Fulfill your house with beautiful sembako"
-            />
+            <a href="{{ route('index') }}">
+              <img
+                  src="{{url ('/frontend/images/content/logo_toko_sembako.png') }}"
+                  alt="sejahtera | Fulfill your house with beautiful sembako"
+              /></a>
           </div>
           <div class="w-full"></div>
           <div class="w-auto">
