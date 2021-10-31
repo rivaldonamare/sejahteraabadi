@@ -11,7 +11,7 @@
           SEJAHTERA<br class="" />ABADI
         </h1>
         <h2 class="px-8 text-base md:px-0 md:text-lg my-6 tracking-wide">
-          Kami menyediakan semabko dengan harga serta
+          Kami menyediakan sembako dengan harga serta
           <br class="hidden lg:block" />kualitas terbaik
         </h2>
         <div>
@@ -33,7 +33,7 @@
                 <iframe
                   width="100%"
                   height="100%"
-                  src="https://www.youtube.com/embed/3h0_v1cdUIA"
+                  src="https://www.youtube.com/embed/ehXGbeOBb2Y"
                   frameborder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowfullscreen
@@ -43,9 +43,9 @@
             ></button>
           </div>
           <img
-            src="/frontend/images/content/telor.jpg"
+            src="/frontend/images/content/sembako.jpg"
             alt="semabako 1"
-            class="absolute inset-0 md:relative w-full h-full object-cover object-center"
+            class="absolute inset-0 md:relative w-500 h-full object-cover object-center"
           />
         </div>
       </div>
