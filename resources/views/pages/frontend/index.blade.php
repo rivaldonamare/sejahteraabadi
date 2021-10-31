@@ -475,7 +475,7 @@
         <div
           class="w-full flex-auto md:w-auto md:flex-initial px-4 md:px-6 my-4 md:my-0"
         >
-          <img src="/frontend/images/content/unilev.png" alt="" class="mx-auto" />
+          <img src="/frontend/images/content/indomi.png" alt="" class="mx-auto" />
         </div>
         <div
           class="w-full flex-auto md:w-auto md:flex-initial px-4 md:px-6 my-4 md:my-0"
@@ -490,6 +490,11 @@
           class="w-full flex-auto md:w-auto md:flex-initial px-4 md:px-6 my-4 md:my-0"
         >
           <img src="/frontend/images/content/Indofood smol.png" alt="" class="mx-auto" />
+        </div>
+        <div
+          class="w-full flex-auto md:w-auto md:flex-initial px-4 md:px-6 my-4 md:my-0"
+        >
+          <img src="/frontend/images/content/bimoli.png" alt="" class="mx-auto" />
         </div>
       </div>
     </section>
