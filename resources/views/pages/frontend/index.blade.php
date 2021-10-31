@@ -11,7 +11,7 @@
           SEJAHTERA<br class="" />ABADI
         </h1>
         <h2 class="px-8 text-base md:px-0 md:text-lg my-6 tracking-wide">
-          Kami menyediakan sembako dengan harga serta
+          Kami menyediakan sembako dengan harga murah serta
           <br class="hidden lg:block" />kualitas terbaik
         </h2>
         <div>
