@@ -78,7 +78,7 @@
               <h5 class="text-lg font-semibold">Mie Instan</h5>
               <span class="">18.309 items</span>
             </div>
-            <a href="details.html" class="stretched-link">
+            <a href="details/mi-instan" class="stretched-link">
               <!-- fake children -->
             </a>
           </div>
