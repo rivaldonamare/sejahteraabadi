@@ -76,9 +76,9 @@
               class="overlay left-0 top-0 bottom-0 flex justify-center flex-col pl-48 md:pl-72"
             >
               <h5 class="text-lg font-semibold">Mie Instan</h5>
-              <span class="">18.309 items</span>
+              <span class="">25 items</span>
             </div>
-            <a href="details/mi-instan" class="stretched-link">
+            <a href="details.html" class="stretched-link">
               <!-- fake children -->
             </a>
           </div>
@@ -96,7 +96,7 @@
               class="overlay right-0 left-0 top-0 bottom-0 md:bottom-auto flex justify-center md:items-center flex-col pl-48 md:pl-0 pt-0 md:pt-12"
             >
               <h5 class="text-lg font-semibold">Minyak Goreng</h5>
-              <span class="">77.392 items</span>
+              <span class="">16 items</span>
             </div>
             <a href="details.html" class="stretched-link">
               <!-- fake children -->
@@ -115,8 +115,8 @@
             <div
               class="overlay right-0 left-0 top-0 bottom-0 md:bottom-auto flex justify-center md:items-center flex-col pl-48 md:pl-0 pt-0 md:pt-12"
             >
-              <h5 class="text-lg font-semibold">Kopi & susu</h5>
-              <span class="">22.000 items</span>
+              <h5 class="text-lg font-semibold">Kopi & Susu</h5>
+              <span class="">37 items</span>
             </div>
             <a href="details.html" class="stretched-link">
               <!-- fake children -->
@@ -134,7 +134,7 @@
               class="overlay left-0 top-0 bottom-0 flex justify-center flex-col pl-48 md:pl-72"
             >
               <h5 class="text-lg font-semibold">Bumbu Masak</h5>
-              <span class="">837 items</span>
+              <span class="">45 items</span>
             </div>
             <a href="details.html" class="stretched-link">
               <!-- fake children -->
@@ -193,7 +193,7 @@
                 class="w-full h-full object-cover object-center"
               />
             </div>
-            <h5 class="text-lg font-semibold mt-4">Kewpie Mayo</h5>
+            <h5 class="text-lg font-semibold mt-4">Kewpie Mayonnaise 150g</h5>
             <span class="">IDR 30.000</span>
             <a href="#details.html" class="stretched-link">
               <!-- fake children -->
@@ -236,7 +236,7 @@
                 class="w-full h-full object-cover object-center"
               />
             </div>
-            <h5 class="text-lg font-semibold mt-4">Kikkoman saus teriyaki</h5>
+            <h5 class="text-lg font-semibold mt-4">Kikkoman Saus Teriyaki</h5>
             <span class="">IDR 20.000</span>
             <a href="#details.html" class="stretched-link">
               <!-- fake children -->
@@ -279,7 +279,7 @@
                 class="w-full h-full object-cover object-center"
               />
             </div>
-            <h5 class="text-lg font-semibold mt-4">Kirin tea</h5>
+            <h5 class="text-lg font-semibold mt-4">Kirin Milk Tea</h5>
             <span class="">IDR 43.000</span>
             <a href="#details.html" class="stretched-link">
               <!-- fake children -->
@@ -322,7 +322,7 @@
                 class="w-full h-full object-cover object-center"
               />
             </div>
-            <h5 class="text-lg font-semibold mt-4">Entrasol</h5>
+            <h5 class="text-lg font-semibold mt-4">Entrasol Platinum 400g</h5>
             <span class="">IDR 100.000</span>
             <a href="#details.html" class="stretched-link">
               <!-- fake children -->
@@ -365,7 +365,7 @@
                 class="w-full h-full object-cover object-center"
               />
             </div>
-            <h5 class="text-lg font-semibold mt-4">frisian flag junior</h5>
+            <h5 class="text-lg font-semibold mt-4">Frisian Flag Junio</h5>
             <span class="">IDR 90.000</span>
             <a href="#details.html" class="stretched-link">
               <!-- fake children -->
@@ -408,7 +408,7 @@
                 class="w-full h-full object-cover object-center"
               />
             </div>
-            <h5 class="text-lg font-semibold mt-4">helios strawberry jam</h5>
+            <h5 class="text-lg font-semibold mt-4">Helios Strawberry Jam</h5>
             <span class="">IDR 50.400</span>
             <a href="#details.html" class="stretched-link">
               <!-- fake children -->
@@ -451,7 +451,7 @@
                 class="w-full h-full object-cover object-center"
               />
             </div>
-            <h5 class="text-lg font-semibold mt-4">mr brown caramel latte</h5>
+            <h5 class="text-lg font-semibold mt-4">Mr.Brown Caramel Latte 240mL</h5>
             <span class="">IDR 20.500</span>
             <a href="#details.html" class="stretched-link">
               <!-- fake children -->
@@ -495,6 +495,16 @@
           class="w-full flex-auto md:w-auto md:flex-initial px-4 md:px-6 my-4 md:my-0"
         >
           <img src="/frontend/images/content/bimoli.png" alt="" class="mx-auto" />
+        </div>
+        <div
+          class="w-full flex-auto md:w-auto md:flex-initial px-4 md:px-6 my-4 md:my-0"
+        >
+          <img src="/frontend/images/content/OT2004 smol.png" alt="" class="mx-auto" />
+        </div>
+        <div
+          class="w-full flex-auto md:w-auto md:flex-initial px-4 md:px-6 my-4 md:my-0"
+        >
+          <img src="/frontend/images/content/nissin logo smol.png" alt="" class="mx-auto" />
         </div>
       </div>
     </section>
