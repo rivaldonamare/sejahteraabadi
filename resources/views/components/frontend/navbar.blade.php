@@ -7,7 +7,8 @@
               <img
                   src="{{url ('/frontend/images/content/logo_toko_sembako.png') }}"
                   alt="sejahtera abadi | fulfill your daily needs with the best items from sejahtera abadi"
-              /></a>
+              />
+            </a>
           </div>
           <div class="w-full"></div>
           <div class="w-auto">
