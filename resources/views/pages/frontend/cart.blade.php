@@ -59,23 +59,23 @@
                 <div class="flex flex-start flex-wrap items-center mb-4 -mx-4" data-row="1">
                     <div class="px-4 flex-none">
                         <div class="" style="width: 90px; height: 90px">
-                            <img src="/frontend/images/content/chair-1.png" alt="chair-1" class="object-cover rounded-xl w-full h-full" />
+                            <img src="\frontend\images\content\minyak\minyak_fortune-removebg-preview.png" alt="chair-1" class="object-cover rounded-xl w-full h-full" />
                         </div>
                     </div>
                     <div class="px-4 w-auto flex-1 md:w-5/12">
                         <div class="">
                             <h6 class="font-semibold text-lg md:text-xl leading-8">
-                                Saman Kakka
+                                Fortune Refill 1L
                             </h6>
-                            <span class="text-sm md:text-lg">Office Room</span>
+                            <span class="text-sm md:text-lg">Minyak Goreng</span>
                             <h6 class="font-semibold text-base md:text-lg block md:hidden">
-                                IDR 28.000.000
+                                IDR 55.000
                             </h6>
                         </div>
                     </div>
                     <div class="px-4 w-auto flex-none md:flex-1 md:w-5/12 hidden md:block">
                         <div class="">
-                            <h6 class="font-semibold text-lg">IDR 28.000.000</h6>
+                            <h6 class="font-semibold text-lg">IDR 55.000</h6>
                         </div>
                     </div>
                     <div class="px-4 w-2/12">
@@ -92,23 +92,23 @@
                 <div class="flex flex-start flex-wrap items-center mb-4 -mx-4" data-row="2">
                     <div class="px-4 flex-none">
                         <div class="" style="width: 90px; height: 90px">
-                            <img src="/frontend/images/content/chair-2.png" alt="chair-2" class="object-cover rounded-xl w-full h-full" />
+                            <img src="\frontend\images\content\mi\indomie\INDOMIE-ICEMART-CHICKEN-FLAVOUR-70G-HALF-CATTON.jpg" alt="chair-2" class="object-cover rounded-xl w-full h-full" />
                         </div>
                     </div>
                     <div class="px-4 w-auto flex-1 md:w-5/12">
                         <div class="">
                             <h6 class="font-semibold text-lg md:text-xl leading-8">
-                                Green Seat
+                                Indomie Rasa Ayam 1 Karton
                             </h6>
-                            <span class="text-sm md:text-lg">Office Room</span>
+                            <span class="text-sm md:text-lg">Mie Goreng</span>
                             <h6 class="font-semibold text-base md:text-lg block md:hidden">
-                                IDR 28.000.000
+                                IDR 72.000
                             </h6>
                         </div>
                     </div>
                     <div class="px-4 w-auto flex-none md:flex-1 md:w-5/12 hidden md:block">
                         <div class="">
-                            <h6 class="font-semibold text-lg">IDR 12.500.000</h6>
+                            <h6 class="font-semibold text-lg">IDR 72.000</h6>
                         </div>
                     </div>
                     <div class="px-4 w-2/12">
@@ -125,23 +125,23 @@
                 <div class="flex flex-start flex-wrap items-center mb-4 -mx-4" data-row="3">
                     <div class="px-4 flex-none">
                         <div class="" style="width: 90px; height: 90px">
-                            <img src="/frontend/images/content/chair-3.png" alt="chair-3" class="object-cover rounded-xl w-full h-full" />
+                            <img src="\frontend\images\content\kopi susu\grinpild pul coklat 1l.jpg" alt="chair-3" class="object-cover rounded-xl w-full h-full" />
                         </div>
                     </div>
                     <div class="px-4 w-auto flex-1 md:w-5/12">
                         <div class="">
                             <h6 class="font-semibold text-lg md:text-xl leading-8">
-                                Pacific
+                                Greenfield Coklat 1 Liter
                             </h6>
-                            <span class="text-sm md:text-lg">Office Room</span>
+                            <span class="text-sm md:text-lg">Kopi & Susu</span>
                             <h6 class="font-semibold text-base md:text-lg block md:hidden">
-                                IDR 28.000.000
+                                IDR 35.000
                             </h6>
                         </div>
                     </div>
                     <div class="px-4 w-auto flex-none md:flex-1 md:w-5/12 hidden md:block">
                         <div class="">
-                            <h6 class="font-semibold text-lg">IDR 88.800.000</h6>
+                            <h6 class="font-semibold text-lg">IDR 35.000</h6>
                         </div>
                     </div>
                     <div class="px-4 w-2/12">

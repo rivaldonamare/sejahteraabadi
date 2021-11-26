@@ -10,7 +10,7 @@
             <a href="index.html">Home</a>
           </li>
           <li>
-            <a href="#">Office Room</a>
+            <a href="#">Mie Goreng</a>
           </li>
           <li>
             <a href="#" aria-label="current-page">Details</a>
@@ -24,8 +24,8 @@
     <section class="container mx-auto">
       <div class="flex flex-wrap my-4 md:my-12">
         <div class="w-full md:hidden px-4">
-          <h2 class="text-5xl font-semibold">Chair Thatty</h2>
-          <span class="text-xl">IDR 12.000.000</span>
+          <h2 class="text-5xl font-semibold">Indomie Mie Goreng</h2>
+          <span class="text-xl">IDR 2.500</span>
         </div>
         <div class="flex-1">
           <div class="slider">
@@ -33,10 +33,10 @@
               <div class="px-2">
                 <div
                   class="item selected"
-                  data-img="/frontend/images/content/showcase-1.front.jpg"
+                  data-img="\frontend\images\content\mi\indomie\c12a.jpg"
                 >
                   <img
-                    src="/frontend/images/content/showcase-1.front.jpg"
+                    src="\frontend\images\content\mi\indomie\c12a.jpg"
                     alt="front"
                     class="object-cover w-full h-full rounded-lg"
                   />
@@ -45,10 +45,10 @@
               <div class="px-2">
                 <div
                   class="item"
-                  data-img="/frontend/images/content/showcase-1.back.jpg"
+                  data-img="\frontend\images\content\mi\indomie\2.INDOMIE-INSTANT-FRIED-NOODLES-ORIGINAL-FLAVOUR-5-X-80G.jpg"
                 >
                   <img
-                    src="/frontend/images/content/showcase-1.back.jpg"
+                    src="\frontend\images\content\mi\indomie\2.INDOMIE-INSTANT-FRIED-NOODLES-ORIGINAL-FLAVOUR-5-X-80G.jpg"
                     alt="back"
                     class="object-cover w-full h-full rounded-lg"
                   />
@@ -57,10 +57,10 @@
               <div class="px-2">
                 <div
                   class="item"
-                  data-img="/frontend/images/content/showcase-1.rear.jpg"
+                  data-img="\frontend\images\content\mi\indomie\indom.png"
                 >
                   <img
-                    src="/frontend/images/content/showcase-1.rear.jpg"
+                    src="\frontend\images\content\mi\indomie\indom.png"
                     alt="rear"
                     class="object-cover w-full h-full rounded-lg"
                   />
@@ -69,10 +69,10 @@
               <div class="px-2">
                 <div
                   class="item"
-                  data-img="/frontend/images/content/showcase-1.side.jpg"
+                  data-img="\frontend\images\content\mi\indomie\Indomie-Hot-Spicy-Noodles-6-pack.jpg"
                 >
                   <img
-                    src="/frontend/images/content/showcase-1.side.jpg"
+                    src="\frontend\images\content\mi\indomie\Indomie-Hot-Spicy-Noodles-6-pack.jpg"
                     alt="side"
                     class="object-cover w-full h-full rounded-lg"
                   />
@@ -81,10 +81,10 @@
               <div class="px-2">
                 <div
                   class="item"
-                  data-img="/frontend/images/content/showcase-1.top.jpg"
+                  data-img="\frontend\images\content\mi\indomie\indomie_mi_goreng_rendang_spicy_beef_flavour_80g_2.jpg"
                 >
                   <img
-                    src="/frontend/images/content/showcase-1.top.jpg"
+                    src="\frontend\images\content\mi\indomie\indomie_mi_goreng_rendang_spicy_beef_flavour_80g_2.jpg"
                     alt="top"
                     class="object-cover w-full h-full rounded-lg"
                   />
@@ -94,7 +94,7 @@
             <div class="preview">
               <div class="item rounded-lg h-full overflow-hidden">
                 <img
-                  src="/frontend/images/content/showcase-1.front.jpg"
+                  src="\frontend\images\content\mi\indomie\c12a.jpg"
                   alt="front"
                   class="object-cover w-full h-full rounded-lg"
                 />
@@ -103,8 +103,8 @@
           </div>
         </div>
         <div class="flex-1 px-4 md:p-6">
-          <h2 class="text-5xl font-semibold">Chair Thatty</h2>
-          <p class="text-xl">IDR 12.000.000</p>
+          <h2 class="text-5xl font-semibold">Indomie Mie Goreng</h2>
+          <p class="text-xl">Mulai IDR 2.500 - IDR 20.000</p>
 
           <a
             href="cart.html"
@@ -137,14 +137,15 @@
 
           <h6 class="text-xl font-semibold mb-4">About the product</h6>
           <p class="text-xl leading-7 mb-6">
-            Tailored to a level of perfection synonymous with that of a Savile
-            Row suit and with understated quality in the detail, Jetty has been
-            influenced by timeless 1950s style.
+            Indomie has come a long way since its humble beginnings in the 1970’s.
+            Our noodles are made from carefully selected ingredients, the best quality flour and fresh spices from the
+            natural resources of Indonesia giving it a unique and delicious flavour.
           </p>
           <p class="text-xl leading-7">
-            Providing a subtle nod to the past, Jetty also provides a perfect
-            solution for the way we work today. A comprehensive product family,
-            Jetty features a variety of elegant chairs and sofas.
+            Indomie Mi Goreng is the most popular Indomie flavour around the world.
+            Made with high quality flour and selected fresh ingredients and spices, a plate of Indomie Mi Goreng
+            will certainly brighten up your day.
+            Other than our famous Mi Goreng, we have an array other delicious Indomie flavours for you to try!
           </p>
         </div>
       </div>
@@ -156,7 +157,7 @@
       <div class="container mx-auto">
         <div class="flex flex-start mb-4">
           <h3 class="text-2xl capitalize font-semibold">
-            Complete your room <br class="" />with what we designed
+            Complete your meal <br class="" />with what we provide
           </h3>
         </div>
         <div class="flex overflow-x-auto mb-4 -mx-3">
@@ -164,13 +165,13 @@
             <div class="rounded-xl p-4 pb-8 relative bg-white">
               <div class="rounded-xl overflow-hidden card-shadow w-full h-36">
                 <img
-                  src="/images/content/chair-1.png"
+                  src="\frontend\images\content\helios strawberry jam.jpg"
                   alt=""
                   class="w-full h-full object-cover object-center"
                 />
               </div>
-              <h5 class="text-lg font-semibold mt-4">Cangkir Mauttie</h5>
-              <span class="">IDR 89.300.000</span>
+              <h5 class="text-lg font-semibold mt-4">Helios Strawberry Jam</h5>
+              <span class="">IDR 50.400</span>
               <a href="details.html" class="stretched-link">
                 <!-- fake children -->
               </a>
@@ -180,13 +181,13 @@
             <div class="rounded-xl p-4 pb-8 relative bg-white">
               <div class="rounded-xl overflow-hidden card-shadow w-full h-36">
                 <img
-                  src="/images/content/chair-2.png"
+                  src="\frontend\images\content\kirin tea.jpg"
                   alt=""
                   class="w-full h-full object-cover object-center"
                 />
               </div>
-              <h5 class="text-lg font-semibold mt-4">Saman Kakka</h5>
-              <span class="">IDR 14.500.399</span>
+              <h5 class="text-lg font-semibold mt-4">Kirin Milk Tea</h5>
+              <span class="">IDR 43.000</span>
               <a href="details.html" class="stretched-link">
                 <!-- fake children -->
               </a>
@@ -196,13 +197,13 @@
             <div class="rounded-xl p-4 pb-8 relative bg-white">
               <div class="rounded-xl overflow-hidden card-shadow w-full h-36">
                 <img
-                  src="/images/content/chair-3.png"
+                  src="\frontend\images\content\mi\mi korea lah intinya\20019479_1.jpg"
                   alt=""
                   class="w-full h-full object-cover object-center"
                 />
               </div>
-              <h5 class="text-lg font-semibold mt-4">Lino Dino</h5>
-              <span class="">IDR 22.000.000</span>
+              <h5 class="text-lg font-semibold mt-4">Shin Ramyun Noodle Soup</h5>
+              <span class="">IDR 15.000</span>
               <a href="details.html" class="stretched-link">
                 <!-- fake children -->
               </a>
@@ -212,13 +213,13 @@
             <div class="rounded-xl p-4 pb-8 relative bg-white">
               <div class="rounded-xl overflow-hidden card-shadow w-full h-36">
                 <img
-                  src="/images/content/chair-1.png"
+                  src="\frontend\images\content\kopi susu\cimori blueberry 250ml.jpg"
                   alt=""
                   class="w-full h-full object-cover object-center"
                 />
               </div>
-              <h5 class="text-lg font-semibold mt-4">Syail Ammeno</h5>
-              <span class="">IDR 6.399.999</span>
+              <h5 class="text-lg font-semibold mt-4">Cimory Blueberry 250mL</h5>
+              <span class="">IDR 9.500</span>
               <a href="details.html" class="stretched-link">
                 <!-- fake children -->
               </a>
