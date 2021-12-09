@@ -2,13 +2,13 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests\TransactionRequest;
 use App\Models\Transaction;
 use App\Models\TransactionItem;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 use Yajra\DataTables\Facades\DataTables;
 
-class TransactionController extends Controller
+class MyTransactionController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -18,20 +18,13 @@ class TransactionController extends Controller
     public function index()
     {
         if(request()->ajax()){
-            $query = Transaction::query();
+            $query = Transaction::with(['user'])->where('users_id', Auth::user()->id);
             return DataTables::of($query)
                 ->addColumn('action', function($item){
                     return '
-                        &emsp;
-                        <a href="'. route('dashboard.transaction.show', $item->id) .'" class="bg-green-500 text-white rounded-md px-2 py-1 m-2">
+                        <a href="'. route('dashboard.my-transaction.show', $item->id) .'" class="bg-green-500 text-white rounded-md px-2 py-1 m-2">
                             Show
                         </a>
-                        &emsp;
-                        <a href="'. route('dashboard.transaction.edit', $item->id) .'" class="bg-gray-500 text-white rounded-md px-2 py-1 m-2">
-                            Edit
-                        </a>
-                        &emsp;
-
                     ';
                 })
                 ->editColumn('total_price', function($item){
@@ -70,10 +63,10 @@ class TransactionController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show(Transaction $transaction)
+    public function show(Transaction $myTransaction)
     {
         if(request()->ajax()){
-            $query = TransactionItem::with(['product'])->where('transactions_id',$transaction->id);
+            $query = TransactionItem::with(['product'])->where('transactions_id', $myTransaction->id);
             return DataTables::of($query)
                 ->editColumn('product.price', function($item){
                     return number_format($item->product->price);
@@ -81,7 +74,9 @@ class TransactionController extends Controller
                 ->rawColumns(['action', 'url'])
                 ->make();
         }
-        return view('pages.dashboard.transaction.show', compact('transaction'));
+        return view('pages.dashboard.transaction.show', [
+            'transaction' => $myTransaction
+        ]);
     }
 
     /**
@@ -90,11 +85,9 @@ class TransactionController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit(Transaction $transaction)
+    public function edit($id)
     {
-        return view('pages.dashboard.transaction.edit', [
-            'item' => $transaction
-        ]);
+        //
     }
 
     /**
@@ -104,13 +97,9 @@ class TransactionController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(TransactionRequest $request, Transaction $transaction)
+    public function update(Request $request, $id)
     {
-        $data = $request->all();
-
-        $transaction->update($data);
-
-        return redirect()->route('dashboard.transaction.index');
+        //
     }
 
     /**
