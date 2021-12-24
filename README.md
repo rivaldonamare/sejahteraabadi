@@ -8,7 +8,7 @@ This website was created to complete the task requirements of the informatics bu
 This website allows users to register, login and select the goods they want to buy and then checkout and choose the delivery method and payment method.
 
 ## The people who contributed to the creation of this website are:
-- Fayyadh Syafiq Rabani
+- Fayyadh Syafiq Rabbani
 - Mohamad Rivaldo Dwiputra Namare
 - Nadia Hassanah Putri
 - Reyhan Savero Ahmad
