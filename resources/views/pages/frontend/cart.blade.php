@@ -6,7 +6,7 @@
     <div class="container mx-auto">
         <ul class="breadcrumb">
             <li>
-                <a href="index.html">Home</a>
+                <a href="{{ route('index') }}">Home</a>
             </li>
             <li>
                 <a href="#" aria-label="current-page">Shopping Cart</a>

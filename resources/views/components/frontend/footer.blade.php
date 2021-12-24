@@ -4,7 +4,7 @@
         <div class="flex justify-center mb-8">
           <img
             src="{{ url('frontend/images/content/logo_toko_sembako.png') }}"
-            alt="Luxspace | Fulfill your house with beautiful furniture"
+            alt="sejahtera abadi | fulfill your daily needs with the best items from sejahtera abadi"
           />
         </div>
         <aside class="container mx-auto">
@@ -27,13 +27,13 @@
               <h5 class="text-lg font-semibold mb-2 relative">Company</h5>
               <ul class="h-0 invisible md:h-auto md:visible overflow-hidden">
                 <li>
-                  <a href="#" class="hover:underline py-1 block">About</a>
+                  <a href="https://github.com/rivaldonamare/sejahteraabadi/blob/master/README.md" class="hover:underline py-1 block">About</a>
                 </li>
                 <li>
                   <a href="#" class="hover:underline py-1 block">Career</a>
                 </li>
                 <li>
-                  <a href="#" class="hover:underline py-1 block">Contact Us</a>
+                  <a href="https://github.com/rivaldonamare" class="hover:underline py-1 block">Contact Us</a>
                 </li>
               </ul>
             </div>
@@ -41,17 +41,17 @@
               <h5 class="text-lg font-semibold mb-2 relative">Explore</h5>
               <ul class="h-0 invisible md:h-auto md:visible overflow-hidden">
                 <li>
-                  <a href="#" class="hover:underline py-1 block"
+                  <a href="https://templatelab.com/wp-content/uploads/2017/04/terms-and-conditions-template-16.jpg" class="hover:underline py-1 block"
                     >Terms & Conds</a
                   >
                 </li>
                 <li>
-                  <a href="#" class="hover:underline py-1 block"
+                  <a href="https://policies.google.com/privacy?hl=en-US" class="hover:underline py-1 block"
                     >Privacy Policy</a
                   >
                 </li>
                 <li>
-                  <a href="#" class="hover:underline py-1 block"
+                  <a href="https://github.com/rivaldonamare/sejahteraabadi/" class="hover:underline py-1 block"
                     >For Developer</a
                   >
                 </li>
@@ -94,7 +94,7 @@
     <!-- START: FOOTER -->
     <footer class="flex text-center px-4 py-8 justify-center">
       <p class="text-sm">
-        Copyright 2021 • All Rights Reserved Sejahtera Abadi by kelompok 2
+        Copyright 2021 • All Rights Reserved Sejahtera Abadi™ by Kelompok 2
       </p>
     </footer>
     <!-- END: FOOTER -->
