@@ -17,12 +17,12 @@
               id="menu"
             >
               <li class="mx-3 py-6 md:py-0">
-                <a href="#" class="text-black {{\Route::current()->getName() == 'index' ? 'md::text-white' : 'md::text-black' }} hover:underline"
+                <a href="{{ route('index') }}/#browse-the-room" class="text-black {{\Route::current()->getName() == 'index' ? 'md::text-white' : 'md::text-black' }} hover:underline"
                   >Showcase</a
                 >
               </li>
               <li class="mx-3 py-6 md:py-0">
-                <a href="#" class="text-black {{\Route::current()->getName() == 'index' ? 'md::text-white' : 'md::text-black' }} hover:underline"
+                <a href="{{ route('index') }}/#just-arrived" class="text-black {{\Route::current()->getName() == 'index' ? 'md::text-white' : 'md::text-black' }} hover:underline"
                   >Catalog</a
                 >
               </li>
