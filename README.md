@@ -4,7 +4,7 @@
 
 ## About Sejahtera Abadi
 
-This website was created to complete the task requirements of the Informatics Business course group, This website was created using the Laravel framework. 
+This website was created to complete the task requirements of the Informatics Business course group. This website was created using Laravel framework. 
 This website allows users to register, login and select the goods they want to buy and then checkout and choose the delivery method and payment method.
 
 ## The people who contributed to the creation of this website are:
